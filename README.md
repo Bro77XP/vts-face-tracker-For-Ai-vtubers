@@ -2,6 +2,9 @@
 
 A Python client for recording, playing back, and processing face tracking data from VTube Studio via its WebSocket API. Supports AMD GPU acceleration for batch processing via OpenCL.
 
+
+do py -3.12 -m venv venv for amd support for neuro network training for amd gpu.
+
 ## Setup
 
 1. Enable **"Allow Plugin API access"** in VTube Studio settings
